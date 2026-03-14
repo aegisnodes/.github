@@ -1,3 +1,1 @@
-```hs
-Speed-Running my Brain.
-```
+ Whole ecosystem to build powerful algorithmic trading infrastructure on top.
